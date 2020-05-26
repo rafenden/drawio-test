@@ -1,5 +1,5 @@
 ## SVG
-[![Database Schema](test.svg)](https://app.diagrams.net/?libs=general&mode=github#Hrafenden%2Fdrawio-test%2Fmaster%2Ftest.svg)
+[![Database Schema](test.drawio.svg)](https://app.diagrams.net/?libs=general&mode=github#Hrafenden%2Fdrawio-test%2Fmaster%2Ftest.svg)
 
 ## PNG
 
